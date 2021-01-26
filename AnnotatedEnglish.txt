@@ -1,0 +1,343 @@
+Mario, be careful!
+I have a bad
+feeling about this...
+/ airstrip: peach
+Ow ow ow OW!
+Not fair!
+Completely unfair!
+/ plaza2: sm01
+You shouldn't be
+allowed to use
+tools like that!
+/ plaza2: sm02
+Dang it!
+This ain't over!
+/ gelato7: sm
+It's me, Il Piantissimo!
+And now, listen! See
+that flag over there?
+/ pianta2: piantissimoStart01
+Now, you and I
+shall race to get there
+the fastest! Yes!
+/ pianta2: piantissimoStart02
+My personal record is
+00:30:00
+Impressive, eh?
+/ pianta2: piantissimoStart03
+Are you at the ready?
+Then get set!
+AND GOOOOOOOO!!
+/ pianta2: piantissimoStart04
+Grrrr! Yes, GRRRR!
+That was not so bad!
+You are quick! Yes!
+/ pianta2: piantissimoEnd01
+I suppose, maybe I
+underestimated you
+a small bit. Perhaps.
+/ pianta2: piantissimoEnd02
+You try again after
+you have practiced
+more. Until then...
+/ pianta2: piantissimoEnd03
+Whew! You saved me!
+Thanks a bundle!
+/ pianta3: mayor
+Oh, no!
+I just went away for
+a bit and now look...
+/ pianta6: mayorStart01
+I can't believe it!
+Another fine mess!
+And it's a doozy!
+/ pianta6: mayorStart02
+Some of the villagers
+are trapped in that
+burning ooze!
+/ pianta6: mayorStart03
+And I just finished
+evacuating everyone
+a little while back!
+/ pianta6: mayorStart04
+What in the world's
+happening? I think I
+may just start crying.
+/ pianta6: mayorStart05
+I'm sorry to trouble
+you time after time,
+but please...
+/ pianta6: mayorStart06
+Could you find the
+time to help us
+out again?
+/ pianta6: mayorStart07
+Ten villagers are
+trapped in the slime.
+You must hurry!
+/ pianta6: mayorStart08
+You're the savior of
+Pianta Village!
+We're in your debt!
+/ pianta6: mayorEnd01
+As a reward, please
+take this!
+/ pianta6: mayorEnd02
+Aaarrgh!
+I'll remember this!
+/ pianta7: sm
+Amazing! What a
+spectacle! Is this a
+new show of ours?!
+/ pinna1: director01
+You guys are great!
+Whoever hired you
+needs a raise!
+/ pinna1: director02
+I love how you play
+the fearless hero and
+he's like...
+/ pinna1: director03
+a bad version of you,
+but you both look the
+same and stuff!!
+/ pinna1: director04
+Well, as director of
+this park, I want to
+ensure your success.
+/ pinna1: director05
+So, how about I
+provide you with a
+hero's vehicle?
+/ pinna1: director06
+Follow me!
+/ pinna1: director07
+Darn it all!
+I'll remember this!
+/ pinna7: sm
+Wahoooo!
+You wanna go for
+a ride, bud?
+/ ricco2: raceguy01
+Go ahead and jump
+on the Blooper you
+like best. Go on!
+/ ricco2: raceguy02
+Show me some super
+Blooper-surfing, and
+win yourself a prize!
+/ ricco2: raceguy03
+Phooey!
+I'll remember this!
+/ ricco7: sm
+Arrgh!
+I'll remember this!!
+/ bianco7: sm
+Darn! And I was
+just about to ride
+that Yoshi, too!
+/ plaza6: yoshiSM
+Oh, please tell me
+my nightmare is over!
+You can save me!
+/ sirena1: manager01
+I don't know why, but
+you just look very...
+capable to me.
+/ sirena1: manager02
+Listen...it all started
+around noon. This
+giant manta-shaped...
+/ sirena1: manager03
+...thing showed up. It
+was this paper-thin...
+floating silhouette.
+/ sirena1: manager04
+It came and covered
+the hotel grounds in
+this electric goop.
+/ sirena1: manager05
+Then... Oh, the horror!
+My beautiful hotel!
+My poor building!
+/ sirena1: manager06
+It sank in the middle
+of that awful ooze!
+Why me? WHY???
+/ sirena1: manager07
+Now, I've got the staff
+cleaning up, but
+where's my hotel?
+/ sirena1: manager08
+What am I supposed
+to do? I can't just
+sit back and...
+/ sirena1: manager09
+AIIIIGH! It's back!
+That gossamer ghoul!
+Do something!
+/ sirena1: manager10
+Hey! Ummmmm...
+It's...Mario, right?
+Yeah. Mario.
+/ sirena2: manager01
+Listen, I, uh, have a
+feeling you can
+help me out again...
+/ sirena2: manager02
+See, the hotel, it's...
+Well, it's full of...
+It's full of ghosts!
+/ sirena2: manager03
+So, well, could you
+maybe... Look, just
+come inside, please.
+/ sirena2: manager04
+I can tell you're a
+miracle worker.
+Don't be so modest.
+/ sirena2: manager05
+Ahhh, dear Mario!
+Please, come right in!
+/ sirena3: manager01
+Do I sense some
+reluctance? Come
+now, don't dawdle.
+/ sirena3: manager02
+Well now, Mario!
+You really should
+drop by the casino.
+/ sirena4: manager01
+I'll let my boys
+know you're coming.
+Go on, now!
+/ sirena4: manager02
+Ahh, Mario! Right this
+way, please!
+/ sirena4: worker
+Ah! Mario! Mario!
+The casino's this way!
+Well, actually...
+/ sirena5: manager01
+I must admit that,
+unfortunately, the
+casino's closed today.
+/ sirena5: manager02
+You see, there are
+creepy sounds coming
+from the basement...
+/ sirena5: manager03
+Could we trick you...
+I mean, ask for your
+help? Oh, thank you!
+/ sirena5: manager04
+Ahh, Mario! Right this
+way, please!
+/ sirena5: worker
+Mario! We've
+got trouble!
+/ sirena6: managerStart01
+That electric goop
+is back! Where?
+Everywhere!
+/ sirena6: managerStart02
+Wow! That was great!
+I never expected you
+to do it so easily.
+/ sirena6: managerEnd01
+Fantastic, Mario!
+/ sirena6: managerEnd02
+Ah! Mario! There's a
+troublemaker inside
+who looks like you!
+/ sirena7: manager01
+Hurry! Get in there!
+/ sirena7: manager02
+Yaaaaargh!
+You're so annoying!
+/ sirena7: sm
+I've got it! Yes!
+I surely do have it!
+What have I got?
+/ noki3: elder01
+Why, the answer to
+our polluted ocean
+problem, of course!
+/ noki3: elder02
+And the answer is
+you! You must go to
+the ocean floor!
+/ noki3: elder03
+Of course, that is
+impossible for you
+at the moment...
+/ noki3: elder04
+Therefore, I've made
+an area for you to
+hone your skills!
+/ noki3: elder05
+Boop-bop-boop-
+bottle-dee-BOO!
+Tah-daaa!
+/ noki3: elder06
+Wear this, and you
+can stay underwater
+for much, much longer!
+/ noki3: elder07
+Use that FLUDD to
+move around and
+get red coins.
+/ noki3: elder08
+But don't overdo it!
+If you run low on air,
+here's what you do...
+/ noki3: elder09
+Just grab some
+regular coins to refill
+your meter, OK?
+/ noki3: elder10
+Now, shall we get
+started?
+/ noki3: elder11
+Oh, Mario! You're
+finally setting out for
+the ocean's bottom!
+/ noki4: youth01
+Grandpa is waiting for
+you up top. Oh, don't
+forget to wear this...
+/ noki4: youth02
+You can use this rope
+as a shortcut to
+reach Grandpa...
+/ noki4: youth03
+Ho HO, foolish man!
+I am Il Piantissimo!
+Yes, that is me!
+/ noki5: piantissimoStart01
+And now, I challenge
+you to a race to
+that flag!
+/ noki5: piantissimoStart02
+It is a race to the
+finish! The best time
+is 00:40:00.
+/ noki5: piantissimoStart03
+Are you at the ready?
+Then get set...
+and GOOOOOOOOO!
+/ noki5: piantissimoStart04
+Whoo...haah...wheeze!
+You are quite speedy!
+You are like a fish!
+/ noki5: piantissimoEnd01
+You may not be the
+slow clam-chomper
+I took you for!
+/ noki5: piantissimoEnd02
+May we race again!
+Watch for me!
+/ noki5: piantissimoEnd03
+Curses!
+I won't forget this!
+/ noki7: sm

@@ -1,0 +1,344 @@
+aaa! aa aaaa!
+aaaa aaa aaaa
+aaa...
+/ airstrip: peach
+aaaaa...
+aaa aaaaaa
+aaaaa
+/ plaza2: sm
+aaaaa! aaaaa!
+/ gelato7: sm
+aaaa aaaaa!
+aaaa  aaaa...
+/ pianta2: piantissimoStart01
+aaaa aaaaaa
+aaaaaa!!
+/ pianta2: piantissimoStart02
+aaaa...
+aaaaa aaaa
+00：30：00 a!
+/ pianta2: piantissimoStart03
+aaaaa aaaa?
+aaaaa aa!!
+/ pianta2: piantissimoStart04
+aaa!
+aaaa aaa!
+/ pianta2: piantissimoEnd01
+aaaaaa aaa
+aaaaaaaaaa...
+/ pianta2: piantissimoEnd02
+aaaaa
+aaaaaaaaaa
+aa aa!!
+/ pianta2: piantissimoEnd03
+aaa aaaaa
+aaaaa!
+/ pianta3: mayor
+aa, aaa!
+aaa aaaa aaaa
+aaaaaaaaa...
+/ pianta6: mayorStart01
+aa aaaaaaaa
+aaaaaaaa!
+/ pianta6: mayorStart02
+aa aaaaaaaa
+aaaaaaaaa
+aaaaaa!
+/ pianta6: mayorStart03
+aaaa aaa aaaa
+aaaa aaaaaa
+aaaaaaaaaa
+/ pianta6: mayorStart04
+aaaaaaaa
+aaaaaaaaa?!
+aaa aa aaaaaa!
+/ pianta6: mayorStart05
+aaaaa aaaa
+aaaaaa aaaaa
+/ pianta6: mayorStart06
+aaa aaaa
+aaaaaa aaaa?!
+/ pianta6: mayorStart07
+aaaaaaa aaaa
+10aaaa!
+aaaaaa aaa!
+/ pianta6: mayorStart08
+aa! aaaa
+aaa aaaaaa
+aaaa aaaaaa!
+/ pianta6: mayorEnd01
+aaaa aaa
+aaaaaa!
+/ pianta6: mayorEnd02
+a? aaaa
+aaa aaaaaaa
+aaa aaaaaa?
+/ pianta6: mayorEnd03
+aaaaaaa!
+aaaaa aaaa
+aaaa aaaaa!!
+/ pianta6: mayorEnd04
+aaaaa! aaaaa!
+/ pianta7: sm
+aa~ aaaaa!!
+aaaaa aaa
+aaaaa aaaa!!
+/ pinna1: director01
+aaaaa aaaa
+aa aaaa!!
+/ pinna1: director02
+aaaaaa aaaaaa
+aaaa aaaaaaa
+aaaaaaa?
+/ pinna1: director03
+aaaa aaaaaaa
+aaaaaaaaa
+/ pinna1: director04
+aaaaaaa aaaa
+aaa aaaaaaaa
+/ pinna1: director05
+aaaa aaaaaa
+aaaaaaaaa!
+/ pinna1: director06
+aaaaa aaaaa
+aaaa aaaaaaaa
+/ pinna1: director07
+aa aaaa...
+/ pinna1: director08
+aaaaa! aaaaa!
+/ pinna7: sm
+aaaa!
+aaaaaaaa!
+/ ricco2: raceguy01
+aaaa aaa
+aaaaaa aaaa
+aaaaa!
+/ ricco2: raceguy02
+aaaa aaaaa
+aaaaaaa
+aaaa aaaaaaa!
+/ ricco2: raceguy03
+aaaaa! aaaaa!
+/ ricco7: sm
+aaaaa! aaaaa!
+/ bianco7: sm
+aaaaa! aaaa
+aaaaa aaaa
+aaaaaaa!
+/ plaza6: yoshiSM
+aa aaaa aaaa
+...a aaaaaaa
+aaaaaaaaaaa!
+/ sirena1: manager01
+aa, aaaa aaaa
+aaaaaa aaaa
+/ sirena1: manager02
+aaaaaa...
+aaa aaaa
+aaaa aaaaaaaa
+/ sirena1: manager03
+aaaaaa aaaa
+aaaaaaaaa
+aaaa aaaaaaaa
+/ sirena1: manager04
+aaa aaaaaaaa
+aaaaaaa aaaa
+aaaaaaaaaaa
+/ sirena1: manager05
+aaaa aaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaa
+/ sirena1: manager06
+aaaaaaa aaa!
+aaaa, aaaa
+aaaaa aaaa
+/ sirena1: manager07
+aa aaaaaaaaa
+aaaaaa aaaa
+aaaaaaaaa!!
+/ sirena1: manager08
+aaa aaaa
+aaaaa aaaaaa
+aaaaaaaa?!
+/ sirena1: manager09
+aaaaa aaaa
+aaaaaaaaa
+aaaaaaa aaaa
+/ sirena1: manager10
+aaaaa aaaaaa
+aaaa aaaaaa
+aaaaa aaaaaa
+/ sirena1: manager11
+aaaa aaaa
+aaaa aaaaa...
+/ sirena1: manager12
+aa! aaaaaa!
+aaaaaaaaaaaaa!
+aaaaaaaaaaaa!
+/ sirena1: manager13
+aa! aaaa
+aaa aaaaaaaaa
+/ sirena2: manager01
+aaaa aaa aaaa
+aa aaaaa...
+/ sirena2: manager02
+aaa aaaaaaa
+aaaaaaaaa...
+/ sirena2: manager03
+aa aaaa
+aaaa aaa...
+/ sirena2: manager04
+aaaa aaaaaaaa
+aaa aaaaaaaa
+aaaaa aa...
+/ sirena2: manager05
+aaaa aaaaa!
+aaa aaaaaaaa!
+/ sirena3: manager01
+aaa aaaaaaaa?
+aa aa aaa...
+/ sirena3: manager02
+aaaaaa aaaaa!
+aaaa aaaaaaaa
+aaaaaaaa
+/ sirena4: manager01
+aaaaa
+aaaaaaaaa...
+a a aaa!
+/ sirena4: manager02
+a aaaaaaaa
+aaa aaa
+/ sirena4: worker
+aa!
+aaaaa aaaaa!
+aaaa aa aaaa!
+/ sirena5: manager01
+aaaa...
+aaaa aaaa
+aaaaaaaaa...
+/ sirena5: manager02
+aaa...
+aaaa aaaa
+aaaa aaa...
+/ sirena5: manager03
+aaaaaa
+aaaaa...aa
+aaaaaa aaaa
+/ sirena5: manager04
+aaaa aaaaaaaa
+/ sirena5: manager05
+a aaaaaaaa
+aaa aaa
+/ sirena5: worker
+aaaaaaaaa
+aaaaa!
+/ sirena6: managerStart01
+aaaaaaa
+aaaaaaaaaaaaa
+/ sirena6: managerStart02
+aaaaaa
+aaaaaaaaaaaa
+aaaaa
+/ sirena6: managerStart03
+aaaa aaaaa
+aaaaaaaaaaa
+aaaaaa
+/ sirena6: managerStart04
+aaaa 3aaaaa
+aaaaa aaaa!
+/ sirena6: managerStart05
+aaaa aaaaa!
+aaa aaaaaaaaa
+aaaaaaaa...
+/ sirena6: managerEnd01
+aaaaaa aaaaa!
+/ sirena6: managerEnd02
+aa! aaaaa!!
+aaa aaaa
+aaaaa aaaa!
+/ sirena7: manager01
+aaaa aaa!
+/ sirena7: manager02
+aaaaa! aaaaa!
+/ sirena7: sm
+aaaaaaaa!
+aaaaaaaaa!!
+/ noki3: elder01
+"aaa?"aa
+aaaaaaa
+aaaa aaa!
+/ noki3: elder02
+aaa aaaaaaa
+aaaaaaaaa...
+/ noki3: elder03
+aaaaaa aaaaa
+aaaaa aaaaaaa
+/ noki3: elder04
+aaaaaa aaaaaa
+aaaaaaaaaaa
+aaaaaaa
+/ noki3: elder05
+aaaaa,
+aaaa aaaaaa
+aaaaaaaaaa
+/ noki3: elder06
+aaaa aaaaa
+aaaaa aaaaaaa
+aaaaaa
+/ noki3: elder07
+aaaaa aaaa...
+aaaaaa!!
+/ noki3: elder08
+aaaa aaaaaaa
+aaaaa aaa
+aaa aaaaaaa
+/ noki3: elder09
+aaaa aaaaaaa
+aaaaaaa
+aaaaaaaaa
+/ noki3: elder10
+aaaaaaaaaaaaa
+aaaaaaaa
+aaaaaaaaa
+/ noki3: elder11
+aa aaaaaaaaaa
+/ noki3: elder12
+aa aaaaa
+aaaa aaaaaa
+aaaaaaaa
+/ noki4: youth01
+aaaaaa
+aaaaaaaaa
+/ noki4: youth02
+aaa aaaaaaa
+aaaaa
+aaaaaaaa...
+/ noki4: youth03
+aaaaaaaaaaa
+aaaaaaaa...
+/ noki4: youth04
+aaaa aaaaa!
+aaaa aaaa...
+/ noki5: piantissimoStart01
+aaaa aaaaaa
+aaaaaa!!
+/ noki5: piantissimoStart02
+aaaa...
+aaaaa aaaa
+00:40:00 a!
+/ noki5: piantissimoStart03
+aaaaa aaaa?
+aaaaa aa!!
+/ noki5: piantissimoStart04
+aaa!
+aaaa aaa!
+/ noki5: piantissimoEnd01
+aaaaaa aaa
+aaaaaaaaaa...
+/ noki5: piantissimoEnd02
+aaaaa
+aaaaaaaaaa
+aa aa!!
+/ noki5: piantissimoEnd03
+aaaaa! aaaaa!
+/ noki7: sm
