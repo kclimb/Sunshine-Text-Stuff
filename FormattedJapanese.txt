@@ -1,4 +1,3 @@
-/
 aaa! aa aaaa!
 aaaa aaa aaaa
 aaa...
@@ -7,7 +6,7 @@ aaaaa...
 aaa aaaaaa
 aaaaa
 /
-aaaaa! aaaaa
+aaaaa! aaaaa!
 /
 aaaa aaaaa!
 aaaa  aaaa...
@@ -63,8 +62,7 @@ aaaaaa aaaa?!
 aaaaaaa aaaa
 10aaaa!
 aaaaaa aaa!
-
-Pianta 6-2
+/
 aa! aaaa
 aaa aaaaaa
 aaaa aaaaaa!
@@ -340,18 +338,4 @@ aaaaaaaaaa
 aa aa!!
 /
 aaaaa! aaaaa!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/
