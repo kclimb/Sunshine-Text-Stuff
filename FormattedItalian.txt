@@ -1,4 +1,3 @@
-/
 Mario, stai attento!
 Ho un brutto
 presentimento...
@@ -318,18 +317,4 @@ ti sfidero di nuovo!
 /
 Maledizione! Non lo
 dimentichero mai!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/

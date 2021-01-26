@@ -1,4 +1,3 @@
-/
 !Mario, ten mucho
 cuidado! No presiento
 nada bueno...
@@ -350,18 +349,4 @@ caras... y entonces...
 /
 !Brrrrrrrr!
 !Esta te la guardo!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/

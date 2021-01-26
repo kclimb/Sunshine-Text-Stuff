@@ -1,4 +1,3 @@
-/
 Mario! Sei vorsichtig.
 Ich habe ein ungutes
 gefuhl bei der Sache.
@@ -345,18 +344,4 @@ mir!
 So ein Mist!
 Das vergesse ich
 nicht!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/
