@@ -70,7 +70,7 @@ def LanguageTime(contents, isJP):
             tag_end = line.find(":")
             if tag_end == -1:
                 tag_end = len(line) # if line doesn't have a tag delimiter just assume the whole annotation is the tag
-            tag = line[:tag_end]
+            tag = line[2:tag_end]
 
             # time the textbox using the appropriate language mechanics
             if isJP:
@@ -83,20 +83,30 @@ def LanguageTime(contents, isJP):
                 tag_times[tag] += box_time
             else:
                 tag_times[tag] = box_time
-            box_times[line] = box_time
+            box_times[line[2:]] = box_time
             total_time += box_time
             curr_lines = []
         else:
             curr_lines.append(line)  #we are in the middle of a textbox so we add the line to the working set of lines
     return total_time, tag_times, box_times
 
-f = open("AnnotatedJapanese.txt","r")
-contentsJ = f.readlines()
-totalJ, tagJ, boxJ = LanguageTime(contentsJ, True)
-print(totalJ)
-f = open("AnnotatedEnglish.txt","r")
-contentsE = f.readlines()
-totalE, tagE, boxE = LanguageTime(contentsE, False)
-print(totalE)
-for tag in set(tagJ.keys()).union(set(tagE.keys())):
-    print(tag, tagJ[tag], tagE[tag])
+
+
+# f = open("FormattedJapanese.txt","r")
+# contentsJ = f.readlines()
+# totalJ, tagJ, boxJ = LanguageTime(contentsJ, True)
+# print(totalJ)
+# f = open("AnnotatedJapanese.txt","r")
+# contentsJ = f.readlines()
+# totalJ, tagJ, boxJ = LanguageTime(contentsJ, True)
+# print(totalJ)
+# f = open("AnnotatedEnglish.txt","r")
+# contentsE = f.readlines()
+# totalE, tagE, boxE = LanguageTime(contentsE, False)
+# print(totalE)
+# jsum = 0
+# esum = 0
+# for tag in boxJ:
+#     if tag.startswith('noki3'):
+#         print(tag, boxJ[tag])
+#     pass

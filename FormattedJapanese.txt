@@ -28,8 +28,8 @@ aaaaaa aaa
 aaaaaaaaaa...
 /
 aaaaa
-aaaaaaaaa
-aaaaa!!
+aaaaaaaaaa
+aa aa!!
 /
 aaa aaaaa
 aaaaa!
@@ -163,7 +163,7 @@ aaaaaaaa?!
 /
 aaaaa aaaa
 aaaaaaaaa
-aaaaaaa aaa
+aaaaaaa aaaa
 /
 aaaaa aaaaaa
 aaaa aaaaaa
@@ -312,6 +312,9 @@ aaaaaaaaa
 /
 aaa aaaaaaa
 aaaaa
+aaaaaaaa...
+/
+aaaaaaaaaaa
 aaaaaaaa...
 /
 aaaa aaaaa!
